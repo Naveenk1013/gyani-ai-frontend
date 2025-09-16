@@ -1,0 +1,12 @@
+{
+  "name": "gyani-ai-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Gyani AI Research Assistant",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "live-server --port=3000"
+  },
+  "keywords": ["ai", "research", "academic", "writing"],
+  "author": "Your Name",
+  "license": "MIT"
+}
